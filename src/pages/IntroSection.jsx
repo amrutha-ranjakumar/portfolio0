@@ -33,13 +33,13 @@ function AnimatedIntroSection() {
 
       {/* Sidebar with Social Links */}
       <div className="sidebar">
-      <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank" rel="noopener noreferrer" className="icon-link" title="gamil">
+      <a href="" target="_blank" rel="noopener noreferrer" className="icon-link" title="gamil">
           <FaEnvelope />
         </a>
         <a href="https://github.com/amrutha-ranjakumar" target="_blank" rel="noopener noreferrer" className="icon-link" title="GitHub">
           <FaGithub />
         </a>
-        <a href="https://www.linkedin.com/in/amrutha-ranjakumar" target="_blank" rel="noopener noreferrer" className="icon-link" title="LinkedIn">
+        <a href="" target="_blank" rel="noopener noreferrer" className="icon-link" title="LinkedIn">
           <FaLinkedin />
         </a>
       </div>

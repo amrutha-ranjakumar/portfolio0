@@ -7,6 +7,7 @@ import projectfair from "../images/projectfair.png";
 import restaurant from "../images/restaurant.png";
 import simpleinterest from "../images/simple interest.png";
 import counterredux from "../images/counter-redux.png";
+import musicplayer from "../images/Music player.png";
 
 function Projects() {
   const projects = [
@@ -14,6 +15,11 @@ function Projects() {
       title: "Food Delivery",
       image: fooddelivery,
       link: "https://food-delivery-one-sigma.vercel.app",
+    },
+    {
+      title: "Music Player",
+      image: musicplayer,
+      link: "https://music-player-react-steel.vercel.app",
     },
     {
       title: "Media Player",

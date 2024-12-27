@@ -61,16 +61,16 @@ export const Contact = () => {
             </button>
 
             <div className='social-links'>
-              <a href='https://wa.me/yourphonenumber' target='_blank' rel='noopener noreferrer' className='social-icon'>
+              <a href='' target='_blank' rel='noopener noreferrer' className='social-icon'>
                 <FaWhatsapp />
               </a>
-              <a href='mailto:your-email@gmail.com' target='_blank' rel='noopener noreferrer' className='social-icon'>
+              <a href='' target='_blank' rel='noopener noreferrer' className='social-icon'>
                 <FaEnvelope />
               </a>
-              <a href='https://github.com/yourusername' target='_blank' rel='noopener noreferrer' className='social-icon'>
+              <a href='https://github.com/amrutha-ranjakumar' target='_blank' rel='noopener noreferrer' className='social-icon'>
                 <FaGithub />
               </a>
-              <a href='https://www.linkedin.com/in/yourusername' target='_blank' rel='noopener noreferrer' className='social-icon'>
+              <a href='' target='_blank' rel='noopener noreferrer' className='social-icon'>
                 <FaLinkedin />
               </a>
             </div>
